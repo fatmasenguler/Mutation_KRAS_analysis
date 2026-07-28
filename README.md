@@ -130,6 +130,7 @@ If you use this code, please cite:
 > Şengüler Çiftçi, F. Erman, B. *Spanning-Tree Thermostatistics of Protein Allostery: An Exact Kirchhoff Framework with Application to Oncogenic KRAS.*
 > Bioarxiv
 > DOI:  https://doi.org/10.64898/2026.04.29.721570.
+> Audio discussion of the work:https://www.youtube.com/watch?v=p2nkmk8Qgi4&t=685s
 
 ## Contact
 
